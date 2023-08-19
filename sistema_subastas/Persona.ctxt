@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=YULIA\ BELEN\ JENNY\ TORREZ\ QUISPE
+comment1.params=nombre
+comment1.target=void\ setPersona(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPersona()
+numComments=3
